@@ -18,5 +18,5 @@ In frindsbook project you can send the message one browser to another browser
 4. In the editor open friendsbook file ,Run the program by using run option.
 5. website will open on default browser.
 
-# instalation
+# Installation
 Go to https://www.apachefriends.org/download.html then install it.
